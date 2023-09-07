@@ -11,3 +11,8 @@ Belajar Dasar Git dan GitHub. (Progres 56%)
 * Belajar Studi Kasus Pengalaman Belajar.
 * Belajar Mengubah Tampilan menggunakan format.
 * Belajar Merilis Dokumentasi Hasil Pengalaman Belajar.
+
+**20 Juni 2021**  
+Belajar Dasar Git dan Github. (Progres 100%)
+* Belajar mengenai Git Branches.
+* Github Sebagai Portofolio.
